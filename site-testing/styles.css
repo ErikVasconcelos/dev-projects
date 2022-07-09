@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Caveat', cursive;
+    background: black;
+}
+
+h1 {
+    color: white;
+    font-size: 80px;
+    margin-left: 30vw;
+    width: 50%;
+}
+
+p {
+    color: white;
+    font-size: 30px;
+    margin-left: 15%;
+    width: 70%;
+}
+
+img {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
