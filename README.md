@@ -1,5 +1,5 @@
-# dev-projects
- my-dev-projects
+# site-testing
+ my-site-testing
 
 This repository was created during git and github classes
 
